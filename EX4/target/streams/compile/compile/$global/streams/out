@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/home/ubuntu/workspace/engsoft3/EX2/src/main/scala/EX2.scala:43:20: Int does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m            workers(resultados = res +: resultados)[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ubuntu/workspace/engsoft3/EX2/src/main/scala/EX2.scala:46:28: not found: value resultados[0m
+[0m[[0m[31merror[0m] [0m[0m            for(i<-0 until resultados.length)[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ubuntu/workspace/engsoft3/EX2/src/main/scala/EX2.scala:48:27: Int does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m                if(workers(i) == numero_aleatorio())[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

@@ -1,0 +1,35 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/ubuntu/workspace/engsoft3/EX2/target/scala-2.11/engsoft3_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Work.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/engsoft3/EX2/target/scala-2.11/classes/Work.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Gerar$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/engsoft3/EX2/target/scala-2.11/classes/Gerar$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Maquina$$anonfun$receive$1$$anonfun$applyOrElse$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/engsoft3/EX2/target/scala-2.11/classes/Maquina$$anonfun$receive$1$$anonfun$applyOrElse$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Gerar.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/engsoft3/EX2/target/scala-2.11/classes/Gerar.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Maquina$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/engsoft3/EX2/target/scala-2.11/classes/Maquina$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Teste.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/engsoft3/EX2/target/scala-2.11/classes/Teste.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Message.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/engsoft3/EX2/target/scala-2.11/classes/Message.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Worker.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/engsoft3/EX2/target/scala-2.11/classes/Worker.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Teste$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/engsoft3/EX2/target/scala-2.11/classes/Teste$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Teste$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/engsoft3/EX2/target/scala-2.11/classes/Teste$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Worker$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/engsoft3/EX2/target/scala-2.11/classes/Worker$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Resultado.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/engsoft3/EX2/target/scala-2.11/classes/Resultado.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Maquina$$anonfun$receive$1$$anonfun$applyOrElse$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/engsoft3/EX2/target/scala-2.11/classes/Maquina$$anonfun$receive$1$$anonfun$applyOrElse$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Resultado$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/engsoft3/EX2/target/scala-2.11/classes/Resultado$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Work$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/engsoft3/EX2/target/scala-2.11/classes/Work$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Maquina.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/engsoft3/EX2/target/scala-2.11/classes/Maquina.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
